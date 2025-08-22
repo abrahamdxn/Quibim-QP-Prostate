@@ -1,0 +1,50 @@
+﻿Region,Org Code,Provider name,Type of Hospital,No of Prostate Scans(5% of total),Median Days Test to Report,Median Days Request to test,Past AI adoption
+Y56,NT9,Alliance Medical,Private,1016,4,8,Yes
+Y56,NT4,Circle Health Group Limited,Private,709,2,8,No
+Y56,NYR,Healthshare Diagnostics,Private,1388,3,40,No
+Y56,NV1,Inhealth Limited,Private,3062,1,15,No
+Y56,NT2,Nuffield Health,Private,1,2,9,No
+Y56,NT3,Spire Healthcare,Private,163,2,13,No
+Y58,NT9,Alliance Medical,Private,449,4,8,Yes
+Y58,NT4,Circle Health Group Limited,Private,34,2,8,No
+Y58,AC7,Cobalt Health,Private,272,2,4,No
+Y58,NV1,Inhealth Limited,Private,3,1,15,No
+Y58,NT2,Nuffield Health,Private,49,2,9,No
+Y58,NTP,Practice Plus Group Holdings,Private,104,2,35,No
+Y58,NVC,Ramsay Health Care UK Operations Limited,Private,172,5,6,No
+Y58,NT3,Spire Healthcare,Private,20,2,13,No
+Y59,NT9,Alliance Medical,Private,1944,4,8,Yes
+Y59,NT4,Circle Health Group Limited,Private,449,2,8,No
+Y59,NYR,Healthshare Diagnostics,Private,34,3,40,No
+Y59,NMK,Healthshare Ltd,Private,0,12,30,No
+Y59,NV1,Inhealth Limited,Private,26,1,15,No
+Y59,NT2,Nuffield Health,Private,85,2,9,No
+Y59,AVQ,Phoenix Hospital Group,Private,24,13,48,No
+Y59,NTP,Practice Plus Group Holdings,Private,548,2,35,No
+Y59,NVC,Ramsay Health Care UK Operations Limited,Private,172,5,6,No
+Y59,NT3,Spire Healthcare,Private,487,2,13,No
+Y60,NT9,Alliance Medical,Private,41,4,8,Yes
+Y60,NT4,Circle Health Group Limited,Private,348,2,8,No
+Y60,NT2,Nuffield Health,Private,102,2,9,No
+Y60,NVC,Ramsay Health Care UK Operations Limited,Private,440,5,6,No
+Y60,NT3,Spire Healthcare,Private,201,2,13,No
+Y61,NT9,Alliance Medical,Private,702,4,8,Yes
+Y61,NT4,Circle Health Group Limited,Private,31,2,8,No
+Y61,NYR,Healthshare Diagnostics,Private,977,3,40,No
+Y61,NV1,Inhealth Limited,Private,460,1,15,No
+Y61,NT2,Nuffield Health,Private,21,2,9,No
+Y61,NVC,Ramsay Health Care UK Operations Limited,Private,662,5,6,No
+Y61,NT3,Spire Healthcare,Private,253,2,13,No
+Y62,NT9,Alliance Medical,Private,16,4,8,Yes
+Y62,NT4,Circle Health Group Limited,Private,338,2,8,No
+Y62,NV1,Inhealth Limited,Private,0,1,15,No
+Y62,NT2,Nuffield Health,Private,125,2,9,No
+Y62,NVC,Ramsay Health Care UK Operations Limited,Private,610,5,6,No
+Y62,NT3,Spire Healthcare,Private,561,2,13,No
+Y63,NT9,Alliance Medical,Private,3,4,8,Yes
+Y63,NT4,Circle Health Group Limited,Private,218,2,8,No
+Y63,NYR,Healthshare Diagnostics,Private,4,3,40,No
+Y63,NT2,Nuffield Health,Private,121,2,9,No
+Y63,NVC,Ramsay Health Care UK Operations Limited,Private,469,5,6,No
+Y63,NT3,Spire Healthcare,Private,301,2,13,No
+Y63,NN4,Tyneside Surgical Services Ltd,Private,29,0,28,No
